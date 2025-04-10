@@ -38,6 +38,11 @@ The following animation demonstrates the application functionality:
 
 ![A GIF demonstrates a functioning quiz.](testing-demo.gif)
 
+
+Cypress Successful Test pass screenshot
+
+![test pass screenshot](test%20pass.png)
+
 ## Links:
 
 https://github.com/argadeps/Testing-Cypress
