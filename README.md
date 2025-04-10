@@ -46,3 +46,5 @@ Cypress Successful Test pass screenshot
 ## Links:
 
 https://github.com/argadeps/Testing-Cypress
+
+https://app.screencastify.com/v3/watch/agVD7kKZq6w30CQ0lp6E
