@@ -1,6 +1,6 @@
-### This application is an unit test for the Python Quiz
+### This application is an unit test for the Python Quiz.
 
-## User Story
+## User Story:
 
 AS AN aspiring developer
 
@@ -8,7 +8,7 @@ I WANT to take a tech quiz
 
 SO THAT I can test my knowledge and improve my skills
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 GIVEN I am taking a tech quiz
 
@@ -32,8 +32,12 @@ WHEN the quiz is over
 
 THEN I can start a new quiz
 
-## Mock-Up
+## Mock-Up:
 
 The following animation demonstrates the application functionality:
 
 ![A GIF demonstrates a functioning quiz.](testing-demo.gif)
+
+## Links:
+
+https://github.com/argadeps/Testing-Cypress
